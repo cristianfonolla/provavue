@@ -1,0 +1,22 @@
+{
+  "name": "provavue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianfonolla/provavue.git"
+  },
+  "author": "Cristian <cristian.fonolla@gmail.com> (https://github.com/cristianfonolla)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianfonolla/provavue/issues"
+  },
+  "homepage": "https://github.com/cristianfonolla/provavue#readme",
+  "dependencies": {
+    "vue": "^2.0.3"
+  }
+}
